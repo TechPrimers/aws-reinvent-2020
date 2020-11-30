@@ -1,5 +1,6 @@
 # My AWS re:Invent 2020 tracker
-All times are in IST.
+All times are in IST. 
+Register & View agenda for reInvent 2020 [here](https://virtual.awsevents.com/agenda)
 
 Topic  | Date | Time | Alternative Time 1 | Alternative Time 2
 |------| -----| -----| ------------------ | ------------------|
