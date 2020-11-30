@@ -4,6 +4,7 @@ Register & View agenda for reInvent 2020 [here](https://virtual.awsevents.com/ag
 
 Topic  | Date | Time | Alternative Time 1 | Alternative Time 2 | Recording Links (Will be updated after reInvent is over)
 |------| -----| -----| ------------------ | ------------------|---------------|
+AWS Late Night Week 1 | Dec 1 | 9:30 AM to 10:30 AM |
 15 things I wish I knew about securing my AWS account | Dec 1 | 10:30 AM to 10:50 AM | 
 Andy Jassy Keynote - LIVE | Dec 1 | 9:00 PM to 12:30 AM | 1:30 PM to 4:30 PM (Dec 2)
 AWS Fargate: Are serverless containers right for you? | Dec 2 | 9:00 AM to 9:30 AM | 5:00 PM to 5:30 PM |
@@ -15,8 +16,10 @@ Data modeling with Amazon DynamoDB – Part 1 | Dec 3 | 10:45 AM to 11:15 AM | 6
 JPMC: Migrations at scale through cloud blueprints and automation | Dec 3 | 2:30 PM to 3:00 PM | |
 Get rolling with machine learning on AWS DeepRacer | Dec 3 | 4:45 PM to 5:15 PM | |
 Data modeling with Amazon DynamoDB – Part 2 | Dec 4 | 11:30 AM to 12:00 PM | 7:30 PM to 8:00 PM |
+How Goldman Sachs uses an Amazon MSK backbone for its Transaction Banking Platform | Dec 4 |11:30 AM to 12:00 PM | 7:30 PM to 8:00 PM |
 Is your serverless application well-architected? | Dec 4 | 12:15 PM to 12:45 PM | 8:15 PM to 8:45 PM |
 Security best practices the AWS Well-Architected way | Dec 4 | 12:15 PM to 12:45 PM | 8:15 PM to 8:45 PM |
+AWS Late Night Week 2 | Dec 8 | 9:30 AM to 10:30 AM |
 Scalable serverless event-driven architectures with SNS, SQS & Lambda | Dec 9 | 11:45 AM to 12:15 PM  | 7:45 PM to 8:15 PM |
 AWS GameDay – Financial Services (EMEA) | Dec 9 | 5:30 PM to 10:30 PM |
 AWS Modernization and DevOps Jam – Presented by Datadog, NetApp, & VMware (Session 1) | Dec 9 | 6:30 PM to 10:30 PM | 
