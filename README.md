@@ -9,6 +9,7 @@ Andy Jassy Keynote - LIVE | Dec 1 | 9:00 PM to 12:30 AM | 1:30 PM to 4:30 PM (De
 AWS Fargate: Are serverless containers right for you? | Dec 2 | 9:00 AM to 9:30 AM | 5:00 PM to 5:30 PM |
 The pragmatic cloud developer | Dec 2 | 9:30 AM to 10:00 AM | 5:30 PM to 6:00 PM |
 AWS Security Jam | Dec 2 | 6:30 PM to 10:30 PM | |
+AWS GameDay – Financial Services (AMER) | Dec 2 | 7:30 PM to 12:30 PM |
 Securing your Amazon EKS applications: Best practices | Dec 3 | 9:30 AM to 10:00 AM | 5:30 PM to 6:00 PM |
 Data modeling with Amazon DynamoDB – Part 1 | Dec 3 | 10:45 AM to 11:15 AM | 6:45 PM to 7:15 PM  | 
 JPMC: Migrations at scale through cloud blueprints and automation | Dec 3 | 2:30 PM to 3:00 PM | |
@@ -17,7 +18,8 @@ Data modeling with Amazon DynamoDB – Part 2 | Dec 4 | 11:30 AM to 12:00 PM | 7
 Is your serverless application well-architected? | Dec 4 | 12:15 PM to 12:45 PM | 8:15 PM to 8:45 PM |
 Security best practices the AWS Well-Architected way | Dec 4 | 12:15 PM to 12:45 PM | 8:15 PM to 8:45 PM |
 Scalable serverless event-driven architectures with SNS, SQS & Lambda | Dec 9 | 11:45 AM to 12:15 PM  | 7:45 PM to 8:15 PM |
-AWS Modernization and DevOps Jam – Presented by Datadog, NetApp, & VMware (Session 1) | Dec 9 | 5:30 PM to 10:30 PM | 
+AWS GameDay – Financial Services (EMEA) | Dec 9 | 5:30 PM to 10:30 PM |
+AWS Modernization and DevOps Jam – Presented by Datadog, NetApp, & VMware (Session 1) | Dec 9 | 6:30 PM to 10:30 PM | 
 Multi-Region deployment – Part 1: Needs, challenges, and approaches | Dec 10 | 12:30 PM to 1:00 PM | 8:30 PM to 9:00 PM |
 Building revolutionary serverless applications | Dec 10 | 8:30 AM to 9:00 AM  | 4:30 PM to 5:00 PM |
 Understanding AWS Lambda streaming events (DynamoDB Streams, Kinesis Data Streams) | Dec 10 | 8:45 PM to 9:15 PM | 12:45 PM to 1:15 PM  (Dec 11) | 
@@ -34,5 +36,3 @@ AWS Lambda – Part 2: Optimizing your Lambda function performance | Dec 18 |  7
 Top 5 best practices for data streaming with Amazon Kinesis | Dec 18 | 8:30 AM to 9:00 AM | 4:30 PM to 5:00 PM |
 Adrian Cockcroft’s architecture trends and topics for 2021 | Dec 18 | 11:30 AM to 12:00 PM | 7:30 PM to 8:00 PM | 
 Deep dive on Amazon Timestream | Dec 18 | 2:30 PM to 3:00 PM | 
-
-
